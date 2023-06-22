@@ -1,6 +1,6 @@
 # Understanding quantum machine learning also requires rethinking generalization
 
-This repository contains the data and code in the paper "Understanding quantum machine learning also requires rethinking generalization," found at https://arxiv.org/abs/xxxx.xxxxx. The code relies on the following packages: TensorCircuit (https://github.com/tencent-quantum-lab/tensorcircuit) and Qibo (https://github.com/qiboteam/qibo). Please ensure that these packages are installed before running the code.
+This repository contains the data and code in the paper "Understanding quantum machine learning also requires rethinking generalization," found in [arXiv](https://arxiv.org/abs/xxxx.xxxxx). The code relies on the following packages: TensorCircuit [(GitHub)](https://github.com/tencent-quantum-lab/tensorcircuit) and Qibo [(GitHub)](https://github.com/qiboteam/qibo). Please ensure that these packages are installed before running the code.
 
 
 ## Repository structure
